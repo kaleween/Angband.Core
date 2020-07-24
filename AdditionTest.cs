@@ -1,5 +1,3 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
 namespace Angband.Core.Test
 {
     [TestCategory("Unit")]
